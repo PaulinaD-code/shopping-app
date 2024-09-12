@@ -26,8 +26,8 @@ h1{
   border: none;
   border-radius: 4px;
   font-size: 16px;
-  cursor: url('/icon-img/bought-smaller.png');
-  background-image: url('/icon-img/add-smaller.png');
+  cursor: url('icon-img/bought-smaller.png');
+  background-image: url('icon-img/add-smaller.png');
   background-repeat: no-repeat;
   background-position: 98%;
   border: none;
@@ -52,7 +52,7 @@ h1{
   margin: 5px 4%;
   align-items: center ;
   justify-self: center;
-  cursor: url('/icon-img/bought-smaller.png');
+  cursor: url('icon-img/bought-smaller.png');
 }
 
 .input-line{
@@ -72,13 +72,13 @@ h1{
   background-color: #549a30;
   height:70%;
   cursor: cell;
-  cursor: url('/img-container/icon-img/lista\ zakupowa.png');
+  cursor: url('icon-img/lista\ zakupowa.png');
 }
 
 .button-reset{
   background-color: #67be1d;
   height:80%;
-  cursor: url('/img-container/icon-img/bought-smaller.png');
+  cursor: url('icon-img/bought-smaller.png');
 }
 
 .add-element-btn-css:hover{
@@ -87,7 +87,7 @@ h1{
 
 .button-reset:hover{
   background-color: #eaa938;
-  cursor: url('/img-container/icon-img/bought-smaller.png');
+  cursor: url('icon-img/bought-smaller.png');
   cursor: pointer;
 }
 
@@ -107,7 +107,7 @@ h1{
 }
 
 .ccs-chekmark{
-  background-image: url('/img-container/check\ \(1\).png');
+  background-image: url('img-container/check\ \(1\).png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -116,7 +116,7 @@ h1{
 .css-checked-box{
   width:40px;
   height:40px;
-  background-image:url('/img-container/icons8-check-mark-button-96.png');
+  background-image:url('img-container/icons8-check-mark-button-96.png');
   border:none;
   background-size: cover;
   background-repeat: no-repeat;
